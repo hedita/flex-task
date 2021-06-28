@@ -1,10 +1,13 @@
+body {
+  background-color: #457b9d;
+}
+
 .container {  
-  border: 1px solid #a8dadc;
+  border: 5px solid #a8dadc;
   background-color: #f1faee;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  
 }
   
 .logo {
@@ -13,10 +16,44 @@
 
 .header {
   color: #1d3557;
-
 }
 
 .menu {
   color: #1d3557;
-  
+}
+
+.container2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 350px;
+}
+
+ .aside {
+  border: 5px solid #1d3557;
+  color: #f1faee;
+  background-color: #e63946;
+  flex: 1;
+}
+
+.container3 {
+  border: 5px solid #e63946;
+  color: #f1faee;
+  background-color: #1d3557;
+  flex: 2;
+}
+
+.container4 {
+  border: 5px solid #e63946;
+  color: #f1faee;
+  background-color: #1d3557;
+  flex: 2;
+}
+
+.container5 {
+  border: 5px solid #a8dadc;
+  color: #1d3557;
+  background-color: #f1faee;
+  display: flex;
+  justify-content: center;
 }

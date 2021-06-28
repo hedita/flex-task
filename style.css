@@ -1,0 +1,22 @@
+.container {  
+  border: 1px solid #a8dadc;
+  background-color: #f1faee;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  
+}
+  
+.logo {
+  color: #1d3557;
+}
+
+.header {
+  color: #1d3557;
+
+}
+
+.menu {
+  color: #1d3557;
+  
+}

@@ -34,6 +34,11 @@ body {
   color: #f1faee;
   background-color: #e63946;
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+  
 }
 
 .container3 {
@@ -41,6 +46,10 @@ body {
   color: #f1faee;
   background-color: #1d3557;
   flex: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
 }
 
 .container4 {
@@ -48,6 +57,10 @@ body {
   color: #f1faee;
   background-color: #1d3557;
   flex: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
 }
 
 .container5 {

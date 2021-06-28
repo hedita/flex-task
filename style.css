@@ -26,10 +26,10 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  height: 350px;
+  min-height: 350px;
 }
 
- .aside {
+.aside {
   border: 5px solid #1d3557;
   color: #f1faee;
   background-color: #e63946;
